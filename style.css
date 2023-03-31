@@ -6,17 +6,13 @@ html, body {
     height: 100%;
     color: #fff;
     font: 11px/normal sans-serif;
-  overflow-x: hidden; /* Hide horizontal scrollbar */
-  overflow-y: hidden; /* Show vertical scrollbar if needed */
-  
-}
-  
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    overflow-y: hidden; /* Show vertical scrollbar if needed */
     background-image: url('https://github.com/gokercebeci/flipclock/raw/master/css/background.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 #mask {
    position: absolute;
   top: 50%;
