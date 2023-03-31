@@ -16,6 +16,7 @@ html, body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 #mask {
    position: absolute;
   top: 50%;
@@ -27,7 +28,6 @@ html, body {
     background-image: url('https://github.com/gokercebeci/flipclock/raw/master/css/mask.png');
 }
 
-}
 h1 { 
   margin: 0 10px; 
   font-size: 70px; 
